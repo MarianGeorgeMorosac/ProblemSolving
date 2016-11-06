@@ -4,10 +4,6 @@ import java.io.FileOutputStream;
 import java.io.PrintStream;
 import java.util.Scanner;
 
-/**
- * Created by mgm on 11/6/16.
- */
-
 public class Main {
 
     static int n;
