@@ -196,6 +196,4 @@ ENV/
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-/source/src/input.txt
 /source/src/Main.java
-/source/src/output.txt
